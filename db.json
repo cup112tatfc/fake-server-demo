@@ -1,0 +1,1194 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Shoes",
+      "createAt": 123456789,
+      "updateAt": 123456789
+    },
+    {
+      "id": 2,
+      "name": "Hand Bag",
+      "createAt": 123456789,
+      "updateAt": 123456789
+    },
+    {
+      "id": 3,
+      "name": "Bag",
+      "createAt": 123456789,
+      "updateAt": 123456789
+    },
+    {
+      "id": 4,
+      "name": "Wallet",
+      "createAt": 123456789,
+      "updateAt": 123456789
+    },
+    {
+      "id": 5,
+      "name": "Belt",
+      "createAt": 123456789,
+      "updateAt": 123456789
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "name": "GIÀY SLINGBACK GÓT NHŨ METALLIC GOLD - MÀU ĐEN",
+      "color": "black",
+      "heelStyle": "pointed",
+      "toeStyle": "pointed",
+      "sizes": [35, 36, 37, 38, 39],
+      "price": 977000,
+      "total": 10,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2022/January/5/giay-slingback-got-nhu-metallic-gold-bmn-0510-mau-den-main__62297__1641391984.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2022/January/5/giay-slingback-got-nhu-metallic-gold-bmn-0510-mau-den-3__62299__1641392011.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2022/January/5/giay-slingback-got-nhu-metallic-gold-bmn-0510-mau-den-2__62298__1641391998.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2022/January/5/giay-slingback-got-nhu-metallic-gold-bmn-0510-mau-den-5__62300__1641392025.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2022/January/5/giay-slingback-got-nhu-metallic-gold-bmn-0510-mau-den-4__62301__1641392039.jpg"
+      ],
+      "saleOff": false,
+      "priceOff": 0,
+      "new": false,
+      "information": {
+        "model": "1010SDN0655",
+        "type": "Giày Cao Gót",
+        "heelStyle": "Gót nhọn",
+        "toeStyle": "Hở Mũi",
+        "heelHeight": "9 cm",
+        "material": "Da nhân tạo",
+        "pattern": "Một màu",
+        "suitable": "Đi làm, đi tiệc, đi chơi"
+      }
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "name": "GIÀY SANDAL CAO GÓT - MÀU ĐỎ",
+      "color": "red",
+      "heelStyle": "pointed",
+      "toeStyle": "circle",
+      "sizes": [35, 36, 37, 38, 39],
+      "price": 633000,
+      "total": 10,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2020/October/15/giay-sandal-cao-got-sdn-0655-mau-do-main__57113__1602735444.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2020/October/15/giay-sandal-cao-got-sdn-0655-mau-do-3__57111__1602735410.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2020/October/15/giay-sandal-cao-got-sdn-0655-mau-do-5__57112__1602735429.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2020/October/15/giay-sandal-cao-got-sdn-0655-mau-do-1__57114__1602735458.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/April/29/giay-sandal-cao-got-sdn-0655-mau-do-8__59812__1619679285.jpg"
+      ],
+      "saleOff": true,
+      "priceOff": 316500,
+      "new": false,
+      "information": {
+        "model": "1010SDN0655",
+        "type": "Giày Cao Gót",
+        "heelStyle": "Gót nhọn",
+        "toeStyle": "Hở Mũi",
+        "heelHeight": "9 cm",
+        "material": "Da nhân tạo",
+        "pattern": "Một màu",
+        "suitable": "Đi làm, đi tiệc, đi chơi"
+      }
+    },
+    {
+      "id": 3,
+      "categoryId": 1,
+      "name": "GIÀY SANDAL ANKLE STRAP QUAI MẢNH VÂN KỲ ĐÀ - MÀU ĐEN",
+      "color": "black",
+      "heelStyle": "pointed",
+      "toeStyle": "square",
+      "sizes": [35, 36, 37, 38, 39],
+      "price": 690000,
+      "total": 10,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2021/October/15/giay-sandal-ankle-strap-quai-manh-van-ky-da-sdn-0702-mau-cau-vong-main__61074__1634290165.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/October/15/giay-sandal-ankle-strap-quai-manh-van-ky-da-sdn-0702-mau-cau-vong-4__61075__1634290179.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/October/15/giay-sandal-ankle-strap-quai-manh-van-ky-da-sdn-0702-mau-cau-vong-2__61076__1634290193.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/October/15/giay-sandal-ankle-strap-quai-manh-van-ky-da-sdn-0702-mau-cau-vong-3__61077__1634290207.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/October/15/giay-sandal-ankle-strap-quai-manh-van-ky-da-sdn-0702-mau-cau-vong-5__61078__1634290221.jpg"
+      ],
+      "saleOff": false,
+      "priceOff": 0,
+      "new": true,
+      "information": {
+        "model": "1010SDN0655",
+        "type": "Giày Cao Gót",
+        "heelStyle": "Gót nhọn",
+        "toeStyle": "Hở Mũi",
+        "heelHeight": "9 cm",
+        "material": "Da nhân tạo",
+        "pattern": "Một màu",
+        "suitable": "Đi làm, đi tiệc, đi chơi"
+      }
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "name": "GIÀY BÍT MŨI NHỌN SATIN PHỐI NƠ - MÀU XANH",
+      "color": "blue",
+      "heelStyle": "square",
+      "toeStyle": "pointed",
+      "sizes": [35, 36, 37, 38, 39],
+      "price": 535000,
+      "total": 10,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2021/October/15/giay-bit-mui-nhon-satin-phoi-no-bmn-0494-mau-xanh-main__61016__1634284932.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/October/15/giay-bit-mui-nhon-satin-phoi-no-bmn-0494-mau-xanh-3__61017__1634284947.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/October/15/giay-bit-mui-nhon-satin-phoi-no-bmn-0494-mau-xanh-1__61018__1634284960.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/October/15/giay-bit-mui-nhon-satin-phoi-no-bmn-0494-mau-xanh-2__61019__1634284973.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/October/15/giay-bit-mui-nhon-satin-phoi-no-bmn-0494-mau-xanh-5__61020__1634284986.jpg"
+      ],
+      "saleOff": false,
+      "priceOff": 0,
+      "new": false,
+      "information": {
+        "model": "1010SDN0655",
+        "type": "Giày Cao Gót",
+        "heelStyle": "Gót nhọn",
+        "toeStyle": "Hở Mũi",
+        "heelHeight": "9 cm",
+        "material": "Da nhân tạo",
+        "pattern": "Một màu",
+        "suitable": "Đi làm, đi tiệc, đi chơi"
+      }
+    },
+    {
+      "id": 5,
+      "categoryId": 1,
+      "name": "CHELSEA BOOTS VIỀN CHỈ NỔI LUG-SOLE - MÀU ĐEN",
+      "color": "black",
+      "heelStyle": "square",
+      "toeStyle": "circle",
+      "sizes": [35, 36, 37, 38, 39],
+      "price": 977000,
+      "total": 10,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2021/November/13/chelsea-boots-vien-chi-noi-lug-sole-bot-0908-den-main__61406__1636808913.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/November/13/chelsea-boots-vien-chi-noi-lug-sole-bot-0908-den-1__61407__1636808927.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/November/13/chelsea-boots-vien-chi-noi-lug-sole-bot-0908-den-2__61408__1636808940.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/November/13/chelsea-boots-vien-chi-noi-lug-sole-bot-0908-den-4__61409__1636808953.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/November/13/chelsea-boots-vien-chi-noi-lug-sole-bot-0908-den-3__61410__1636808966.jpg"
+      ],
+      "saleOff": false,
+      "priceOff": 0,
+      "new": true,
+      "information": {
+        "model": "1010SDN0655",
+        "type": "Giày Cao Gót",
+        "heelStyle": "Gót nhọn",
+        "toeStyle": "Hở Mũi",
+        "heelHeight": "9 cm",
+        "material": "Da nhân tạo",
+        "pattern": "Một màu",
+        "suitable": "Đi làm, đi tiệc, đi chơi"
+      }
+    },
+    {
+      "id": 6,
+      "categoryId": 1,
+      "name": "GIÀY SLINGBACK MŨI VUÔNG GÓT TRỤ - MÀU XÁM",
+      "color": "grey",
+      "heelStyle": "square",
+      "toeStyle": "square",
+      "sizes": [35, 36, 37, 38, 39],
+      "price": 565000,
+      "total": 0,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2022/February/25/giay-slingback-mui-vuong-got-tru-bmn-0503-mau-xanh-bac-ha-main__63146__1645770905.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2022/February/25/giay-slingback-mui-vuong-got-tru-bmn-0503-mau-xanh-bac-ha-3__63148__1645770918.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2022/February/25/giay-slingback-mui-vuong-got-tru-bmn-0503-mau-xanh-bac-ha-1__63150__1645770933.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2022/February/25/giay-slingback-mui-vuong-got-tru-bmn-0503-mau-xanh-bac-ha-2__63151__1645770946.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2022/February/25/giay-slingback-mui-vuong-got-tru-bmn-0503-mau-xanh-bac-ha__63152__1645770972.jpg"
+      ],
+      "saleOff": false,
+      "priceOff": 0,
+      "new": false,
+      "information": {
+        "model": "1010SDN0655",
+        "type": "Giày Cao Gót",
+        "heelStyle": "Gót nhọn",
+        "toeStyle": "Hở Mũi",
+        "heelHeight": "9 cm",
+        "material": "Da nhân tạo",
+        "pattern": "Một màu",
+        "suitable": "Đi làm, đi tiệc, đi chơi"
+      }
+    },
+    {
+      "id": 7,
+      "categoryId": 1,
+      "name": "DÉP MULE MŨI NHỌN MOON ROOF - MÀU TRẮNG",
+      "color": "white",
+      "heelStyle": "low",
+      "toeStyle": "pointed",
+      "sizes": [35, 36, 37, 38, 39],
+      "price": 515000,
+      "total": 10,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2020/September/1/dep-mule-cut-out-mui-nhon-dxp-0157-mau-trang-4__56299__1598943057.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2020/September/1/dep-mule-cut-out-mui-nhon-dxp-0157-mau-trang-3__56301__1598943085.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2020/September/1/dep-mule-cut-out-mui-nhon-dxp-0157-mau-trang-2__56300__1598943071.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2020/September/1/dep-mule-cut-out-mui-nhon-dxp-0157-mau-trang-5__56302__1598943100.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2020/September/1/dep-mule-cut-out-mui-nhon-dxp-0157-mau-trang-1__56304__1598943546.jpg"
+      ],
+      "saleOff": true,
+      "priceOff": 257500,
+      "new": false,
+      "information": {
+        "model": "1010SDN0655",
+        "type": "Giày Cao Gót",
+        "heelStyle": "Gót nhọn",
+        "toeStyle": "Hở Mũi",
+        "heelHeight": "9 cm",
+        "material": "Da nhân tạo",
+        "pattern": "Một màu",
+        "suitable": "Đi làm, đi tiệc, đi chơi"
+      }
+    },
+    {
+      "id": 8,
+      "categoryId": 1,
+      "name": "GIÀY BÚP BÊ TRANG TRÍ VÒNG METALLIC TRÒN - MÀU ĐEN",
+      "color": "black",
+      "heelStyle": "low",
+      "toeStyle": "circle",
+      "sizes": [35, 36, 37, 38, 39],
+      "price": 535000,
+      "total": 10,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2021/January/26/giay-bup-be-trang-tri-vong-metallic-tron-gbb-0413-mau-den-main__58736__1611645800.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/January/26/giay-bup-be-trang-tri-vong-metallic-tron-gbb-0413-mau-den-3__58738__1611645828.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/January/26/giay-bup-be-trang-tri-vong-metallic-tron-gbb-0413-mau-den-1__58737__1611645814.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/January/26/giay-bup-be-trang-tri-vong-metallic-tron-gbb-0413-mau-den-4__58739__1611645846.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/January/26/giay-bup-be-trang-tri-vong-metallic-tron-gbb-0413-mau-den-5__58741__1611646268.jpg"
+      ],
+      "saleOff": false,
+      "priceOff": 0,
+      "new": false,
+      "information": {
+        "model": "1010SDN0655",
+        "type": "Giày Cao Gót",
+        "heelStyle": "Gót nhọn",
+        "toeStyle": "Hở Mũi",
+        "heelHeight": "9 cm",
+        "material": "Da nhân tạo",
+        "pattern": "Một màu",
+        "suitable": "Đi làm, đi tiệc, đi chơi"
+      }
+    },
+    {
+      "id": 9,
+      "categoryId": 1,
+      "name": "GIÀY SANDAL ANKLE ĐẾ BỆT MŨI VUÔNG VÂN DA KỲ ĐÀ - MÀU ĐEN",
+      "color": "black",
+      "heelStyle": "low",
+      "toeStyle": "square",
+      "sizes": [35, 36, 37, 38, 39],
+      "price": 515000,
+      "total": 10,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2021/July/14/giay-sandal-ankle-de-bet-mui-vuong-van-da-ky-da-sdk-0317-mau-cau-vong-2__60585__1626253884.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/July/14/giay-sandal-ankle-de-bet-mui-vuong-van-da-ky-da-sdk-0317-mau-cau-vong-main__60584__1626253872.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/July/14/giay-sandal-ankle-de-bet-mui-vuong-van-da-ky-da-sdk-0317-mau-cau-vong-4__60593__1626279376.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/July/14/giay-sandal-ankle-de-bet-mui-vuong-van-da-ky-da-sdk-0317-mau-cau-vong-5__60594__1626279390.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/July/14/giay-sandal-ankle-de-bet-mui-vuong-van-da-ky-da-sdk-0317-mau-cau-vong-1__60595__1626279405.jpg"
+      ],
+      "saleOff": false,
+      "priceOff": 0,
+      "new": true,
+      "information": {
+        "model": "1010SDN0655",
+        "type": "Giày Cao Gót",
+        "heelStyle": "Gót nhọn",
+        "toeStyle": "Hở Mũi",
+        "heelHeight": "9 cm",
+        "material": "Da nhân tạo",
+        "pattern": "Một màu",
+        "suitable": "Đi làm, đi tiệc, đi chơi"
+      }
+    },
+    {
+      "id": 10,
+      "categoryId": 1,
+      "name": "GIÀY CAO GÓT BMN - MÀU TRẮNG",
+      "color": "white",
+      "heelStyle": "canoe",
+      "toeStyle": "pointed",
+      "sizes": [35, 36, 37, 38, 39],
+      "price": 535000,
+      "total": 10,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2018/January/2/33438_1514890464.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2018/January/2/33440_1514890515.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2018/January/2/33439_1514890491.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2018/January/2/33442_1514890537.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2018/January/2/33447_1514890632.jpg"
+      ],
+      "saleOff": true,
+      "priceOff": 267500,
+      "new": false,
+      "information": {
+        "model": "1010SDN0655",
+        "type": "Giày Cao Gót",
+        "heelStyle": "Gót nhọn",
+        "toeStyle": "Hở Mũi",
+        "heelHeight": "9 cm",
+        "material": "Da nhân tạo",
+        "pattern": "Một màu",
+        "suitable": "Đi làm, đi tiệc, đi chơi"
+      }
+    },
+    {
+      "id": 11,
+      "categoryId": 1,
+      "name": "GIÀY ĐẾ XUỒNG QUAI NGANG PHỐI MẮT XÍCH - MÀU ĐEN",
+      "color": "black",
+      "heelStyle": "canoe",
+      "toeStyle": "circle",
+      "sizes": [35, 36, 37, 38, 39],
+      "price": 614000,
+      "total": 10,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2021/April/23/giay-de-xuong-quai-ngang-phoi-mat-xich-sdx-0425-mau-den-main__59407__1619162230.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/April/23/giay-de-xuong-quai-ngang-phoi-mat-xich-sdx-0425-mau-den-3__59409__1619162262.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/April/23/giay-de-xuong-quai-ngang-phoi-mat-xich-sdx-0425-mau-den-1__59408__1619162246.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/April/23/giay-de-xuong-quai-ngang-phoi-mat-xich-sdx-0425-mau-den-5__59410__1619162277.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/April/23/giay-de-xuong-quai-ngang-phoi-mat-xich-sdx-0425-mau-den-4__59411__1619162293.jpg"
+      ],
+      "saleOff": false,
+      "priceOff": 0,
+      "new": false,
+      "information": {
+        "model": "1010SDN0655",
+        "type": "Giày Cao Gót",
+        "heelStyle": "Gót nhọn",
+        "toeStyle": "Hở Mũi",
+        "heelHeight": "9 cm",
+        "material": "Da nhân tạo",
+        "pattern": "Một màu",
+        "suitable": "Đi làm, đi tiệc, đi chơi"
+      }
+    },
+    {
+      "id": 12,
+      "categoryId": 1,
+      "name": "GIÀY ĐẾ XUỒNG QUAI HỌA TIẾT GLEN PLAID - MÀU HỒNG",
+      "color": "pink",
+      "heelStyle": "pointed",
+      "toeStyle": "pointed",
+      "sizes": [35, 36, 37, 38, 39],
+      "price": 565000,
+      "total": 10,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2019/November/1/50005_1572589228.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2019/November/5/50141_1572941586.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2019/November/5/50143_1572941679.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2019/November/5/50146_1572941712.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2019/November/5/50148_1572941729.jpg"
+      ],
+      "saleOff": true,
+      "priceOff": 282500,
+      "new": false,
+      "information": {
+        "model": "1010SDN0655",
+        "type": "Giày Cao Gót",
+        "heelStyle": "Gót nhọn",
+        "toeStyle": "Hở Mũi",
+        "heelHeight": "9 cm",
+        "material": "Da nhân tạo",
+        "pattern": "Một màu",
+        "suitable": "Đi làm, đi tiệc, đi chơi"
+      }
+    },
+    {
+      "id": 13,
+      "categoryId": 2,
+      "name": "TÚI XÁCH QUAI ĐÔI ĐÍNH GHIM VÀNG - SAT 0290 - MÀU TRẮNG",
+      "color": "white",
+      "strapType": "leather",
+      "lockType": "zipper",
+      "price": 859000,
+      "total": 10,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2022/January/5/tui-xach-quai-doi-dinh-ghim-vang-sat-0290-mau-trang-main__62309__1641393577.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2022/January/5/tui-xach-quai-doi-dinh-ghim-vang-sat-0290-mau-trang-3__62310__1641393591.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2022/January/5/tui-xach-quai-doi-dinh-ghim-vang-sat-0290-mau-trang-4__62311__1641393605.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2022/January/5/tui-xach-quai-doi-dinh-ghim-vang-sat-0290-mau-trang-2__62312__1641393618.jpg"
+      ],
+      "saleOff": false,
+      "priceOff": 0,
+      "new": true,
+      "information": {
+        "model": "1011SAT0290",
+        "type": "Túi Xách Tay",
+        "Dimensions": "20.8 x 9.2 x 19.5 cm",
+        "material": "Da nhân tạo",
+        "strap material": "Dây da",
+        "lock type": "Khóa kéo",
+        "pattern": "Một màu, trang trí kim loại",
+        "compartment": "1 ngăn lớn, 2 ngăn nhỏ",
+        "size": "Nhỏ",
+        "suitable": "Đi làm, đi chơi"
+      }
+    },
+    {
+      "id": 14,
+      "categoryId": 2,
+      "name": "TÚI XÁCH QUAI ĐÔITÚI ĐEO CHÉO SHO - MÀU ĐEN",
+      "color": "black",
+      "strapType": "leather",
+      "lockType": "padlock",
+      "price": 731000,
+      "total": 10,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2018/June/29/38241_1530266916.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2018/June/29/38243_1530266969.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2018/June/29/38242_1530266942.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2018/June/29/38244_1530266994.jpg"
+      ],
+      "saleOff": true,
+      "priceOff": 365500,
+      "new": false,
+      "information": {
+        "model": "1011SAT0290",
+        "type": "Túi Xách Tay",
+        "Dimensions": "20.8 x 9.2 x 19.5 cm",
+        "material": "Da nhân tạo",
+        "strap material": "Dây da",
+        "lock type": "Khóa kéo",
+        "pattern": "Một màu, trang trí kim loại",
+        "compartment": "1 ngăn lớn, 2 ngăn nhỏ",
+        "size": "Nhỏ",
+        "suitable": "Đi làm, đi chơi"
+      }
+    },
+    {
+      "id": 15,
+      "categoryId": 2,
+      "name": "TÚI XÁCH TAY PHỐI KHÓA NGANG - MÀU ĐỎ",
+      "color": "red",
+      "strapType": "leather",
+      "lockType": "pushlock",
+      "price": 781000,
+      "total": 0,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2019/September/3/48946_1567508950.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2019/November/7/50265_1573114652.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2019/September/3/48947_1567508969.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2019/September/3/48948_1567508988.jpg"
+      ],
+      "saleOff": false,
+      "priceOff": 0,
+      "new": true,
+      "information": {
+        "model": "1011SAT0290",
+        "type": "Túi Xách Tay",
+        "Dimensions": "20.8 x 9.2 x 19.5 cm",
+        "material": "Da nhân tạo",
+        "strap material": "Dây da",
+        "lock type": "Khóa kéo",
+        "pattern": "Một màu, trang trí kim loại",
+        "compartment": "1 ngăn lớn, 2 ngăn nhỏ",
+        "size": "Nhỏ",
+        "suitable": "Đi làm, đi chơi"
+      }
+    },
+    {
+      "id": 16,
+      "categoryId": 2,
+      "name": "BUCKET BAG KHÓA DÂY RÚT PHỐI NUBUCK - MÀU ĐEN",
+      "color": "black",
+      "strapType": "leather",
+      "lockType": "drawstring",
+      "price": 761000,
+      "total": 10,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2020/December/18/tui-xach-tay-sat-0272-mau-den-main__58104__1608291362.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2020/December/18/tui-xach-tay-sat-0272-mau-den-3__58106__1608291394.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2020/December/18/tui-xach-tay-sat-0272-mau-den-1__58105__1608291378.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/April/27/bucket-bag-khoa-day-rut-phoi-nubuck-sat-0272-mau-den-8__59591__1619511692.jpg"
+      ],
+      "saleOff": false,
+      "priceOff": 0,
+      "new": false,
+      "information": {
+        "model": "1011SAT0290",
+        "type": "Túi Xách Tay",
+        "Dimensions": "20.8 x 9.2 x 19.5 cm",
+        "material": "Da nhân tạo",
+        "strap material": "Dây da",
+        "lock type": "Khóa kéo",
+        "pattern": "Một màu, trang trí kim loại",
+        "compartment": "1 ngăn lớn, 2 ngăn nhỏ",
+        "size": "Nhỏ",
+        "suitable": "Đi làm, đi chơi"
+      }
+    },
+    {
+      "id": 17,
+      "categoryId": 2,
+      "name": "TÚI ĐEO CHÉO SATIN ÁNH KIM - MÀU VÀNG HỒNG",
+      "color": "pink",
+      "strapType": "metal",
+      "lockType": "zipper",
+      "price": 781000,
+      "total": 10,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2019/October/9/49639_1570593633.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2019/October/9/49641_1570593675.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2019/October/9/49640_1570593654.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2019/October/9/49642_1570593694.jpg"
+      ],
+      "saleOff": false,
+      "priceOff": 0,
+      "new": false,
+      "information": {
+        "model": "1011SAT0290",
+        "type": "Túi Xách Tay",
+        "Dimensions": "20.8 x 9.2 x 19.5 cm",
+        "material": "Da nhân tạo",
+        "strap material": "Dây da",
+        "lock type": "Khóa kéo",
+        "pattern": "Một màu, trang trí kim loại",
+        "compartment": "1 ngăn lớn, 2 ngăn nhỏ",
+        "size": "Nhỏ",
+        "suitable": "Đi làm, đi chơi"
+      }
+    },
+    {
+      "id": 18,
+      "categoryId": 2,
+      "name": "TÚI ĐEO CHÉO SHO 0073",
+      "color": "grey",
+      "strapType": "metal",
+      "lockType": "padlock",
+      "price": 731455,
+      "total": 10,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2017/September/1/29398_1504235346.jpg"
+      ],
+      "saleOff": true,
+      "priceOff": 365728,
+      "new": false,
+      "information": {
+        "model": "1011SAT0290",
+        "type": "Túi Xách Tay",
+        "Dimensions": "20.8 x 9.2 x 19.5 cm",
+        "material": "Da nhân tạo",
+        "strap material": "Dây da",
+        "lock type": "Khóa kéo",
+        "pattern": "Một màu, trang trí kim loại",
+        "compartment": "1 ngăn lớn, 2 ngăn nhỏ",
+        "size": "Nhỏ",
+        "suitable": "Đi làm, đi chơi"
+      }
+    },
+    {
+      "id": 19,
+      "categoryId": 2,
+      "name": "TÚI HỘP GẤM TỨ QUÝ THÊU HỌA TIẾT HOA MAI - MÀU ĐỎ",
+      "color": "red",
+      "strapType": "leather",
+      "lockType": "pushlock",
+      "price": 781000,
+      "total": 10,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2019/December/19/51914_1576739813.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2019/December/19/51916_1576739859.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2019/December/19/51915_1576739835.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2019/December/19/51917_1576739882.jpg"
+      ],
+      "saleOff": false,
+      "priceOff": 0,
+      "new": true,
+      "information": {
+        "model": "1011SAT0290",
+        "type": "Túi Xách Tay",
+        "Dimensions": "20.8 x 9.2 x 19.5 cm",
+        "material": "Da nhân tạo",
+        "strap material": "Dây da",
+        "lock type": "Khóa kéo",
+        "pattern": "Một màu, trang trí kim loại",
+        "compartment": "1 ngăn lớn, 2 ngăn nhỏ",
+        "size": "Nhỏ",
+        "suitable": "Đi làm, đi chơi"
+      }
+    },
+    {
+      "id": 20,
+      "categoryId": 2,
+      "name": "TÚI ĐEO CHÉO SHO 0047 - MÀU ĐEN",
+      "color": "black",
+      "strapType": "metallicLeather",
+      "lockType": "zipper",
+      "price": 682000,
+      "total": 10,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2018/April/2/35631_1522670468.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2018/April/2/35633_1522670500.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2018/April/2/35632_1522670484.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2018/April/2/35634_1522670524.jpg"
+      ],
+      "saleOff": false,
+      "priceOff": 0,
+      "new": false,
+      "information": {
+        "model": "1011SAT0290",
+        "type": "Túi Xách Tay",
+        "Dimensions": "20.8 x 9.2 x 19.5 cm",
+        "material": "Da nhân tạo",
+        "strap material": "Dây da",
+        "lock type": "Khóa kéo",
+        "pattern": "Một màu, trang trí kim loại",
+        "compartment": "1 ngăn lớn, 2 ngăn nhỏ",
+        "size": "Nhỏ",
+        "suitable": "Đi làm, đi chơi"
+      }
+    },
+    {
+      "id": 21,
+      "categoryId": 2,
+      "name": "TÚI ĐEO CHÉO HỌA TIẾT DA RẮN METALLIC - MÀU BẠC",
+      "color": "white",
+      "strapType": "metallicLeather",
+      "lockType": "padlock",
+      "price": 760900,
+      "total": 10,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2018/October/22/41618_1540176976.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2018/October/22/41621_1540177127.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2018/October/22/41619_1540177001.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2018/October/22/41622_1540177137.jpg"
+      ],
+      "saleOff": false,
+      "priceOff": 0,
+      "new": true,
+      "information": {
+        "model": "1011SAT0290",
+        "type": "Túi Xách Tay",
+        "Dimensions": "20.8 x 9.2 x 19.5 cm",
+        "material": "Da nhân tạo",
+        "strap material": "Dây da",
+        "lock type": "Khóa kéo",
+        "pattern": "Một màu, trang trí kim loại",
+        "compartment": "1 ngăn lớn, 2 ngăn nhỏ",
+        "size": "Nhỏ",
+        "suitable": "Đi làm, đi chơi"
+      }
+    },
+    {
+      "id": 22,
+      "categoryId": 3,
+      "name": "BALO MINI PHỐI VÂN DA CÁ SẤU - BAC 0154 - MÀU HỒNG",
+      "color": "pink",
+      "strapType": "leather",
+      "lockType": "zipper",
+      "price": 830000,
+      "total": 10,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2021/November/30/balo-mini-phoi-van-da-ca-sau-bac-0154-mau-hong-main__61539__1638285650.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/November/30/balo-mini-phoi-van-da-ca-sau-bac-0154-mau-hong-3__61540__1638285664.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/November/30/balo-mini-phoi-van-da-ca-sau-bac-0154-mau-hong-2__61541__1638285680.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/November/30/balo-mini-phoi-van-da-ca-sau-bac-0154-mau-hong-1__61542__1638285696.jpg"
+      ],
+      "saleOff": false,
+      "priceOff": 0,
+      "new": true,
+      "information": {
+        "model": "1011SAT0290",
+        "type": "Túi Xách Tay",
+        "Dimensions": "20.8 x 9.2 x 19.5 cm",
+        "material": "Da nhân tạo",
+        "strap material": "Dây da",
+        "lock type": "Khóa kéo",
+        "pattern": "Một màu, trang trí kim loại",
+        "compartment": "1 ngăn lớn, 2 ngăn nhỏ",
+        "size": "Nhỏ",
+        "suitable": "Đi làm, đi chơi"
+      }
+    },
+    {
+      "id": 23,
+      "categoryId": 3,
+      "name": "BALO HAI NGĂN NẮP GẬP KHÓA QUICK RELEASE - BAC 0140 - MÀU XANH RÊU",
+      "color": "green",
+      "strapType": "leather",
+      "lockType": "padlock",
+      "price": 830000,
+      "total": 10,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2021/February/22/balo-hai-ngan-nap-gap-khoa-quick-release-bac-0140-mau-xanh-reu-main__58859__1613971459.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/February/22/balo-hai-ngan-nap-gap-khoa-quick-release-bac-0140-mau-xanh-reu-3__58861__1613971488.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/February/22/balo-hai-ngan-nap-gap-khoa-quick-release-bac-0140-mau-xanh-reu-2__58860__1613971474.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/February/22/balo-hai-ngan-nap-gap-khoa-quick-release-bac-0140-mau-xanh-reu-4__58862__1613971503.jpg"
+      ],
+      "saleOff": true,
+      "priceOff": 498000,
+      "new": false,
+      "information": {
+        "model": "1011SAT0290",
+        "type": "Túi Xách Tay",
+        "Dimensions": "20.8 x 9.2 x 19.5 cm",
+        "material": "Da nhân tạo",
+        "strap material": "Dây da",
+        "lock type": "Khóa kéo",
+        "pattern": "Một màu, trang trí kim loại",
+        "compartment": "1 ngăn lớn, 2 ngăn nhỏ",
+        "size": "Nhỏ",
+        "suitable": "Đi làm, đi chơi"
+      }
+    },
+    {
+      "id": 24,
+      "categoryId": 3,
+      "name": "BALO DÂY RÚT - BAC 0112 - MÀU XANH DƯƠNG",
+      "color": "blue",
+      "strapType": "leather",
+      "lockType": "drawstring",
+      "price": 830000,
+      "total": 10,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2019/July/31/48314_1564563808.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2019/July/31/48315_1564563833.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2019/July/31/48316_1564563857.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2019/July/31/48317_1564563879.jpg"
+      ],
+      "saleOff": false,
+      "priceOff": 0,
+      "new": true,
+      "information": {
+        "model": "1011SAT0290",
+        "type": "Túi Xách Tay",
+        "Dimensions": "20.8 x 9.2 x 19.5 cm",
+        "material": "Da nhân tạo",
+        "strap material": "Dây da",
+        "lock type": "Khóa kéo",
+        "pattern": "Một màu, trang trí kim loại",
+        "compartment": "1 ngăn lớn, 2 ngăn nhỏ",
+        "size": "Nhỏ",
+        "suitable": "Đi làm, đi chơi"
+      }
+    },
+    {
+      "id": 25,
+      "categoryId": 3,
+      "name": "BALO NẮP GẬP PHỐI MÀU VIỀN CHỈ NỔI - BAC 0151 - MÀU ĐEN",
+      "color": "black",
+      "strapType": "leather",
+      "lockType": "pushlock",
+      "price": 859000,
+      "total": 10,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2021/November/7/balo-nap-gap-phoi-mau-vien-chi-noi-bac-0151-mau-den-main__61363__1636250023.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/November/7/balo-nap-gap-phoi-mau-vien-chi-noi-bac-0151-mau-den-3__61364__1636250038.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/November/7/balo-nap-gap-phoi-mau-vien-chi-noi-bac-0151-mau-den-4__61365__1636250051.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/November/7/balo-nap-gap-phoi-mau-vien-chi-noi-bac-0151-mau-den-1__61366__1636250065.jpg"
+      ],
+      "saleOff": false,
+      "priceOff": 0,
+      "new": false,
+      "information": {
+        "model": "1011SAT0290",
+        "type": "Túi Xách Tay",
+        "Dimensions": "20.8 x 9.2 x 19.5 cm",
+        "material": "Da nhân tạo",
+        "strap material": "Dây da",
+        "lock type": "Khóa kéo",
+        "pattern": "Một màu, trang trí kim loại",
+        "compartment": "1 ngăn lớn, 2 ngăn nhỏ",
+        "size": "Nhỏ",
+        "suitable": "Đi làm, đi chơi"
+      }
+    },
+    {
+      "id": 26,
+      "categoryId": 3,
+      "name": "BALO MINI KHÓA CÀI OVAL - BAC 0156 - MÀU CAM",
+      "color": "orange",
+      "strapType": "leather",
+      "lockType": "padlock",
+      "price": 830000,
+      "total": 0,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2021/November/5/balo-mini-khoa-cai-oval-bac-0156-mau-cam-main__61289__1636108078.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/November/5/balo-mini-khoa-cai-oval-bac-0156-mau-cam-3__61291__1636108094.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/November/5/balo-mini-khoa-cai-oval-bac-0156-mau-cam-2__61292__1636108108.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2021/November/5/balo-mini-khoa-cai-oval-bac-0156-mau-cam-1__61293__1636108121.jpg"
+      ],
+      "saleOff": false,
+      "priceOff": 0,
+      "new": true,
+      "information": {
+        "model": "1011SAT0290",
+        "type": "Túi Xách Tay",
+        "Dimensions": "20.8 x 9.2 x 19.5 cm",
+        "material": "Da nhân tạo",
+        "strap material": "Dây da",
+        "lock type": "Khóa kéo",
+        "pattern": "Một màu, trang trí kim loại",
+        "compartment": "1 ngăn lớn, 2 ngăn nhỏ",
+        "size": "Nhỏ",
+        "suitable": "Đi làm, đi chơi"
+      }
+    },
+    {
+      "id": 27,
+      "categoryId": 3,
+      "name": "BALO ĐA NĂNG PHỐI KẺ SỌC NHIỀU MÀU - BAC 0136 - MÀU XANH NAVY",
+      "color": "blue",
+      "strapType": "leather",
+      "lockType": "zipper",
+      "price": 830000,
+      "total": 10,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2020/September/4/balo-da-nang-phoi-ke-soc-nhieu-mau-bac-0136-mau-xanh-navy-2__56411__1599211192.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2020/September/4/balo-da-nang-phoi-ke-soc-nhieu-mau-bac-0136-mau-xanh-navy-3__56414__1599211551.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2020/September/4/balo-da-nang-phoi-ke-soc-nhieu-mau-bac-0136-mau-xanh-navy-4__56412__1599211210.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2020/September/4/balo-da-nang-phoi-ke-soc-nhieu-mau-bac-0136-mau-xanh-navy-1__56415__1599211616.jpg"
+      ],
+      "saleOff": false,
+      "priceOff": 0,
+      "new": true,
+      "information": {
+        "model": "1011SAT0290",
+        "type": "Túi Xách Tay",
+        "Dimensions": "20.8 x 9.2 x 19.5 cm",
+        "material": "Da nhân tạo",
+        "strap material": "Dây da",
+        "lock type": "Khóa kéo",
+        "pattern": "Một màu, trang trí kim loại",
+        "compartment": "1 ngăn lớn, 2 ngăn nhỏ",
+        "size": "Nhỏ",
+        "suitable": "Đi làm, đi chơi"
+      }
+    },
+    {
+      "id": 28,
+      "categoryId": 3,
+      "name": "BALO PHỐI ĐA NĂNG SỌC MÀU CÁ TÍNH - BAC 0127 - MÀU ĐEN",
+      "color": "black",
+      "strapType": "leather",
+      "lockType": "zipper",
+      "price": 830000,
+      "total": 0,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2020/February/14/53613_1581665623.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2020/February/14/53615_1581665684.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2020/February/14/53614_1581665657.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2020/February/14/53616_1581665705.jpg"
+      ],
+      "saleOff": true,
+      "priceOff": 415000,
+      "new": false,
+      "information": {
+        "model": "1011SAT0290",
+        "type": "Túi Xách Tay",
+        "Dimensions": "20.8 x 9.2 x 19.5 cm",
+        "material": "Da nhân tạo",
+        "strap material": "Dây da",
+        "lock type": "Khóa kéo",
+        "pattern": "Một màu, trang trí kim loại",
+        "compartment": "1 ngăn lớn, 2 ngăn nhỏ",
+        "size": "Nhỏ",
+        "suitable": "Đi làm, đi chơi"
+      }
+    },
+    {
+      "id": 29,
+      "categoryId": 3,
+      "name": "BALO NẮP KHÓA HỌA TIẾT CARO - BAC 0118 - MÀU ĐEN",
+      "color": "black",
+      "strapType": "leather",
+      "lockType": "drawstring",
+      "price": 830000,
+      "total": 10,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2020/October/15/balo-nap-khoa-hoa-tiet-caro-bac-0118-mau-den-main__57181__1602736835.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2020/October/15/balo-nap-khoa-hoa-tiet-caro-bac-0118-mau-den-3__57178__1602736800.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2020/October/15/balo-nap-khoa-hoa-tiet-caro-bac-0118-mau-den-1__57180__1602736817.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2020/October/15/balo-nap-khoa-hoa-tiet-caro-bac-0118-mau-den-2__57185__1602736999.jpg"
+      ],
+      "saleOff": true,
+      "priceOff": 415000,
+      "new": false,
+      "information": {
+        "model": "1011SAT0290",
+        "type": "Túi Xách Tay",
+        "Dimensions": "20.8 x 9.2 x 19.5 cm",
+        "material": "Da nhân tạo",
+        "strap material": "Dây da",
+        "lock type": "Khóa kéo",
+        "pattern": "Một màu, trang trí kim loại",
+        "compartment": "1 ngăn lớn, 2 ngăn nhỏ",
+        "size": "Nhỏ",
+        "suitable": "Đi làm, đi chơi"
+      }
+    },
+    {
+      "id": 30,
+      "categoryId": 5,
+      "name": "THẮT LƯNG KHÓA CÀI GOLDEN OCTAGON - WAI 0027 - MÀU TRẮNG",
+      "color": "white",
+      "type": "belt",
+      "sizes": ["L", "M", "S"],
+      "price": 290000,
+      "total": 10,
+      "imgurls": "https://www.vascara.com/uploads/cms_productmedia/2022/February/5/that-lung-khoa-cai-golden-octagon-wai-0027-mau-trang__62694__1644038893.jpg",
+      "saleOff": false,
+      "priceOff": 0,
+      "new": false,
+      "information": {
+        "model": "1013WAI0027",
+        "type": "Thắt Lưng",
+        "material": "Da tổng hợp",
+        "with": "1.6 cm",
+        "length": "70 cm (S); 80 cm(M); 90 cm (L)"
+      }
+    },
+    {
+      "id": 31,
+      "categoryId": 5,
+      "name": "THẮT LƯNG DÂY MẢNH KHÓA CÀI GOLDEN OVAL - WAI 0026 - MÀU NÂU",
+      "color": "white",
+      "type": "belt",
+      "sizes": ["L", "M", "S"],
+      "price": 319000,
+      "total": 10,
+      "imgurls": "https://www.vascara.com/uploads/cms_productmedia/2022/February/5/that-lung-day-manh-khoa-cai-golden-oval-wai-0026-mau-nau__62691__1644038601.jpg",
+      "saleOff": false,
+      "priceOff": 0,
+      "new": false,
+      "information": {
+        "model": "1013WAI0027",
+        "type": "Thắt Lưng",
+        "material": "Da tổng hợp",
+        "with": "1.6 cm",
+        "length": "70 cm (S); 80 cm(M); 90 cm (L)"
+      }
+    },
+    {
+      "id": 32,
+      "categoryId": 5,
+      "name": "THẮT LƯNG KHÓA CÀI TẠO KIỂU DIAMOND CHARM - WAI 0025 - MÀU ĐEN",
+      "color": "black",
+      "type": "belt",
+      "sizes": ["L", "M", "S"],
+      "price": 290000,
+      "total": 10,
+      "imgurls": "https://www.vascara.com/uploads/cms_productmedia/2022/February/5/that-lung-khoa-cai-tao-kieu-diamond-charm-wai-0025-mau-den__62688__1644038259.jpg",
+      "saleOff": false,
+      "priceOff": 0,
+      "new": false,
+      "information": {
+        "model": "1013WAI0027",
+        "type": "Thắt Lưng",
+        "material": "Da tổng hợp",
+        "with": "1.6 cm",
+        "length": "70 cm (S); 80 cm(M); 90 cm (L)"
+      }
+    },
+    {
+      "id": 33,
+      "categoryId": 5,
+      "name": "THẮT LƯNG KHÓA CÀI GOLDEN OCTAGON - WAI 0027 - MÀU ĐEN",
+      "color": "black",
+      "type": "belt",
+      "sizes": ["L", "M", "S"],
+      "price": 290000,
+      "total": 10,
+      "imgurls": "https://www.vascara.com/uploads/cms_productmedia/2022/February/5/that-lung-khoa-cai-golden-octagon-wai-0027-mau-den__62693__1644038826.jpg",
+      "saleOff": false,
+      "priceOff": 0,
+      "new": false,
+      "information": {
+        "model": "1013WAI0027",
+        "type": "Thắt Lưng",
+        "material": "Da tổng hợp",
+        "with": "1.6 cm",
+        "length": "70 cm (S); 80 cm(M); 90 cm (L)"
+      }
+    },
+    {
+      "id": 34,
+      "categoryId": 5,
+      "name": "THẮT LƯNG KHÓA CÀI TẠO KIỂU GREEN AMBER CHARM - WAI 0025 - MÀU XANH RÊU",
+      "color": "green",
+      "type": "belt",
+      "sizes": ["L", "M", "S"],
+      "price": 290000,
+      "total": 10,
+      "imgurls": "https://www.vascara.com/uploads/cms_productmedia/2022/February/5/that-lung-khoa-cai-tao-kieu-green-amber-charm-wai-0025-mau-xanh-reu__62689__1644038403.jpg",
+      "saleOff": false,
+      "priceOff": 0,
+      "new": false,
+      "information": {
+        "model": "1013WAI0027",
+        "type": "Thắt Lưng",
+        "material": "Da tổng hợp",
+        "with": "1.6 cm",
+        "length": "70 cm (S); 80 cm(M); 90 cm (L)"
+      }
+    },
+    {
+      "id": 35,
+      "categoryId": 5,
+      "name": "THẮT LƯNG DÂY MẢNH KHÓA CÀI GOLDEN OVAL - WAI 0026 - MÀU NÂU",
+      "color": "brown",
+      "type": "belt",
+      "sizes": ["L", "M", "S"],
+      "price": 319000,
+      "total": 10,
+      "imgurls": "https://www.vascara.com/uploads/cms_productmedia/2022/February/5/that-lung-day-manh-khoa-cai-golden-oval-wai-0026-mau-nau__62691__1644038601.jpg",
+      "saleOff": false,
+      "priceOff": 0,
+      "new": false,
+      "information": {
+        "model": "1013WAI0027",
+        "type": "Thắt Lưng",
+        "material": "Da tổng hợp",
+        "with": "1.6 cm",
+        "length": "70 cm (S); 80 cm(M); 90 cm (L)"
+      }
+    },
+    {
+      "id": 36,
+      "categoryId": 5,
+      "name": "KÍNH GỌNG KIM LOẠI MẮT TRÒN - ROU 0037 - MÀU ĐEN",
+      "type": "glass",
+      "price": 535000,
+      "total": 10,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2022/February/5/kinh-gong-kim-loai-mat-tron-rou-0037-mau-den-main__62664__1644035380.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2022/February/5/kinh-gong-kim-loai-mat-tron-rou-0037-mau-den-3__62665__1644035392.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2022/February/5/kinh-gong-kim-loai-mat-tron-rou-0037-mau-den__62666__1644035406.jpg"
+      ],
+      "saleOff": false,
+      "priceOff": 0,
+      "new": false,
+      "information": {
+        "model": "1017ROU0037",
+        "type": "Mắt Kính",
+        "material": "Plastic & Kim loại",
+        "lenses": "Chống tia UV",
+        "glasses": "Kính tròn",
+        "suitableFace": "Mặt trái xoan, mặt vuông, mặt trái tim, mặt tam giác"
+      }
+    },
+    {
+      "id": 37,
+      "categoryId": 5,
+      "name": "KÍNH MẮT GỌNG PHỐI HỌA TIẾT AMBER - ROU 0042 - MÀU ĐEN",
+      "type": "glass",
+      "price": 535000,
+      "total": 10,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2022/February/5/kinh-mat-gong-phoi-hoa-tiet-amber-rou-0042-mau-den-main__62682__1644037846.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2022/February/5/kinh-mat-gong-phoi-hoa-tiet-amber-rou-0042-mau-den-3__62683__1644037860.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2022/February/5/kinh-mat-gong-phoi-hoa-tiet-amber-rou-0042-mau-den__62684__1644037874.jpg"
+      ],
+      "saleOff": false,
+      "priceOff": 0,
+      "new": false,
+      "information": {
+        "model": "1017ROU0037",
+        "type": "Mắt Kính",
+        "material": "Plastic & Kim loại",
+        "lenses": "Chống tia UV",
+        "glasses": "Kính tròn",
+        "suitableFace": "Mặt trái xoan, mặt vuông, mặt trái tim, mặt tam giác"
+      }
+    },
+    {
+      "id": 38,
+      "categoryId": 5,
+      "name": "KÍNH WAYFARER GỌNG PHỐI VIỀN KIM LOẠI - WAY 0032 - MÀU ĐEN",
+      "type": "glass",
+      "price": 584000,
+      "total": 10,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2022/February/7/kinh-wayfarer-gong-phoi-vien-kim-loai-way-0032-mau-den-main__62762__1644220957.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2022/February/7/kinh-wayfarer-gong-phoi-vien-kim-loai-way-0032-mau-den-3__62763__1644220970.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2022/February/7/kinh-wayfarer-gong-phoi-vien-kim-loai-way-0032-mau-den-9__62764__1644220983.jpg"
+      ],
+      "saleOff": false,
+      "priceOff": 0,
+      "new": false,
+      "information": {
+        "model": "1017ROU0037",
+        "type": "Mắt Kính",
+        "material": "Plastic & Kim loại",
+        "lenses": "Chống tia UV",
+        "glasses": "Kính tròn",
+        "suitableFace": "Mặt trái xoan, mặt vuông, mặt trái tim, mặt tam giác"
+      }
+    },
+    {
+      "id": 39,
+      "categoryId": 5,
+      "name": "KÍNH MẮT HÌNH ĐA GIÁC GỌNG NHỎ - SPE 0008 - MÀU ĐEN",
+      "type": "glass",
+      "price": 535000,
+      "total": 10,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2022/February/3/kinh-mat-hinh-da-giac-gong-nho-spe-0008-mau-den-main__62608__1643894188.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2022/February/3/kinh-mat-hinh-da-giac-gong-nho-spe-0008-mau-den-3__62609__1643894202.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2022/February/3/kinh-mat-hinh-da-giac-gong-nho-spe-0008-mau-den__62610__1643894215.jpg"
+      ],
+      "saleOff": false,
+      "priceOff": 0,
+      "new": false,
+      "information": {
+        "model": "1017ROU0037",
+        "type": "Mắt Kính",
+        "material": "Plastic & Kim loại",
+        "lenses": "Chống tia UV",
+        "glasses": "Kính tròn",
+        "suitableFace": "Mặt trái xoan, mặt vuông, mặt trái tim, mặt tam giác"
+      }
+    },
+    {
+      "id": 40,
+      "categoryId": 5,
+      "name": "KÍNH MÁT DÁNG AVIATOR PHONG CÁCH HIỆN ĐẠI - SPE 0009 - MÀU ĐEN",
+      "type": "glass",
+      "price": 584000,
+      "total": 10,
+      "imgurls": [
+        "https://www.vascara.com/uploads/cms_productmedia/2022/February/3/kinh-mat-dang-aviator-phong-cach-hien-dai-spe-0009-mau-den-main__62617__1643894684.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2022/February/3/kinh-mat-dang-aviator-phong-cach-hien-dai-spe-0009-mau-den-3__62618__1643894698.jpg",
+        "https://www.vascara.com/uploads/cms_productmedia/2022/February/3/kinh-mat-dang-aviator-phong-cach-hien-dai-spe-0009-mau-den__62619__1643894712.jpg"
+      ],
+      "saleOff": false,
+      "priceOff": 0,
+      "new": false,
+      "information": {
+        "model": "1017ROU0037",
+        "type": "Mắt Kính",
+        "material": "Plastic & Kim loại",
+        "lenses": "Chống tia UV",
+        "glasses": "Kính tròn",
+        "suitableFace": "Mặt trái xoan, mặt vuông, mặt trái tim, mặt tam giác"
+      }
+    }
+  ],
+  "User": [
+    {
+      "id": 1,
+      "name": "Alex",
+      "email": "tuanhafc9@gmail.com",
+      "password": "1234567",
+      "phoneNumber": "0914408932"
+    }
+  ],
+  "cartusers": [
+    {
+      "id": 1,
+      "cartId": 1,
+      "carts": []
+    }
+  ]
+}
