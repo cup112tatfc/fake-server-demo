@@ -35,7 +35,7 @@
     {
       "id": 1,
       "categoryId": 1,
-      "name": "GIÀY SLINGBACK GÓT NHŨ METALLIC GOLD - MÀU ĐEN",
+      "name": "Giày Slingback Gót Nhũ Metallic Gold Màu Đen",
       "color": "black",
       "heelStyle": "pointed",
       "toeStyle": "pointed",
@@ -66,7 +66,7 @@
     {
       "id": 2,
       "categoryId": 1,
-      "name": "GIÀY SANDAL CAO GÓT - MÀU ĐỎ",
+      "name": "Giày Sandal Cao Gót Màu Đỏ",
       "color": "red",
       "heelStyle": "pointed",
       "toeStyle": "circle",
@@ -97,7 +97,7 @@
     {
       "id": 3,
       "categoryId": 1,
-      "name": "GIÀY SANDAL ANKLE STRAP QUAI MẢNH VÂN KỲ ĐÀ - MÀU ĐEN",
+      "name": "Giày Sandal Ankle Strap Quai Mảnh Vân Kỳ Đà Màu Đen",
       "color": "black",
       "heelStyle": "pointed",
       "toeStyle": "square",
@@ -128,7 +128,7 @@
     {
       "id": 4,
       "categoryId": 1,
-      "name": "GIÀY BÍT MŨI NHỌN SATIN PHỐI NƠ - MÀU XANH",
+      "name": "Giày Bít Mũi Nhọn Satin Phối Nơ Màu Xanh",
       "color": "blue",
       "heelStyle": "square",
       "toeStyle": "pointed",
@@ -159,7 +159,7 @@
     {
       "id": 5,
       "categoryId": 1,
-      "name": "CHELSEA BOOTS VIỀN CHỈ NỔI LUG-SOLE - MÀU ĐEN",
+      "name": "Chelsea Boots Viền Chỉ Nổi Lug Sole Màu Đen",
       "color": "black",
       "heelStyle": "square",
       "toeStyle": "circle",
@@ -190,7 +190,7 @@
     {
       "id": 6,
       "categoryId": 1,
-      "name": "GIÀY SLINGBACK MŨI VUÔNG GÓT TRỤ - MÀU XÁM",
+      "name": "Giày Slingback Mũi Vuông Gót Trụ Màu Xám",
       "color": "grey",
       "heelStyle": "square",
       "toeStyle": "square",
@@ -221,7 +221,7 @@
     {
       "id": 7,
       "categoryId": 1,
-      "name": "DÉP MULE MŨI NHỌN MOON ROOF - MÀU TRẮNG",
+      "name": "Dép Mule Mũi Nhọn Moon Roof Màu Trắng",
       "color": "white",
       "heelStyle": "low",
       "toeStyle": "pointed",
@@ -252,7 +252,7 @@
     {
       "id": 8,
       "categoryId": 1,
-      "name": "GIÀY BÚP BÊ TRANG TRÍ VÒNG METALLIC TRÒN - MÀU ĐEN",
+      "name": "Giày Búp Bê Trang Trí Vòng Metallic Tròn Màu Đen",
       "color": "black",
       "heelStyle": "low",
       "toeStyle": "circle",
@@ -283,7 +283,7 @@
     {
       "id": 9,
       "categoryId": 1,
-      "name": "GIÀY SANDAL ANKLE ĐẾ BỆT MŨI VUÔNG VÂN DA KỲ ĐÀ - MÀU ĐEN",
+      "name": "Giày Sandal Ankle Đế Bệt Mũi Vuông Vân Da Kỳ Đà Màu Đen",
       "color": "black",
       "heelStyle": "low",
       "toeStyle": "square",
@@ -314,7 +314,7 @@
     {
       "id": 10,
       "categoryId": 1,
-      "name": "GIÀY CAO GÓT BMN - MÀU TRẮNG",
+      "name": "Giày Cao Gót Bmn Màu Trắng",
       "color": "white",
       "heelStyle": "canoe",
       "toeStyle": "pointed",
@@ -345,7 +345,7 @@
     {
       "id": 11,
       "categoryId": 1,
-      "name": "GIÀY ĐẾ XUỒNG QUAI NGANG PHỐI MẮT XÍCH - MÀU ĐEN",
+      "name": "Giày Đế Xuồng Quai Ngang Phối Mắt Xích Màu Đen",
       "color": "black",
       "heelStyle": "canoe",
       "toeStyle": "circle",
@@ -376,7 +376,7 @@
     {
       "id": 12,
       "categoryId": 1,
-      "name": "GIÀY ĐẾ XUỒNG QUAI HỌA TIẾT GLEN PLAID - MÀU HỒNG",
+      "name": "Giày Đế Xuồng Quai Họa Tiết Glen Plaid Màu Hồng",
       "color": "pink",
       "heelStyle": "pointed",
       "toeStyle": "pointed",
@@ -407,7 +407,7 @@
     {
       "id": 13,
       "categoryId": 2,
-      "name": "TÚI XÁCH QUAI ĐÔI ĐÍNH GHIM VÀNG - SAT 0290 - MÀU TRẮNG",
+      "name": "Túi Xách Quai Đôi Đính Ghim Vàng Sat 0290 Màu Trắng",
       "color": "white",
       "strapType": "leather",
       "lockType": "zipper",
@@ -438,7 +438,7 @@
     {
       "id": 14,
       "categoryId": 2,
-      "name": "TÚI XÁCH QUAI ĐÔITÚI ĐEO CHÉO SHO - MÀU ĐEN",
+      "name": "Túi Xách Quai Đôi túi Đeo Chéo Sho Màu Đen",
       "color": "black",
       "strapType": "leather",
       "lockType": "padlock",
@@ -469,7 +469,7 @@
     {
       "id": 15,
       "categoryId": 2,
-      "name": "TÚI XÁCH TAY PHỐI KHÓA NGANG - MÀU ĐỎ",
+      "name": "Túi Xách Tay Phối Khóa Ngang Màu Đỏ",
       "color": "red",
       "strapType": "leather",
       "lockType": "pushlock",
@@ -500,7 +500,7 @@
     {
       "id": 16,
       "categoryId": 2,
-      "name": "BUCKET BAG KHÓA DÂY RÚT PHỐI NUBUCK - MÀU ĐEN",
+      "name": "Bucket Bag Khóa Dây Rút Phối Nubuck Màu Đen",
       "color": "black",
       "strapType": "leather",
       "lockType": "drawstring",
@@ -531,7 +531,7 @@
     {
       "id": 17,
       "categoryId": 2,
-      "name": "TÚI ĐEO CHÉO SATIN ÁNH KIM - MÀU VÀNG HỒNG",
+      "name": "Túi Đeo Chéo Satin Ánh Kim Màu Vàng Hồng",
       "color": "pink",
       "strapType": "metal",
       "lockType": "zipper",
@@ -562,7 +562,7 @@
     {
       "id": 18,
       "categoryId": 2,
-      "name": "TÚI ĐEO CHÉO SHO 0073",
+      "name": "Túi Đeo Chéo Sho 0073",
       "color": "grey",
       "strapType": "metal",
       "lockType": "padlock",
@@ -588,7 +588,7 @@
     {
       "id": 19,
       "categoryId": 2,
-      "name": "TÚI HỘP GẤM TỨ QUÝ THÊU HỌA TIẾT HOA MAI - MÀU ĐỎ",
+      "name": "Túi Hộp Gấm Tứ Quý Thêu Họa Tiết Hoa Mai Màu Đỏ",
       "color": "red",
       "strapType": "leather",
       "lockType": "pushlock",
@@ -619,7 +619,7 @@
     {
       "id": 20,
       "categoryId": 2,
-      "name": "TÚI ĐEO CHÉO SHO 0047 - MÀU ĐEN",
+      "name": "Túi Đeo Chéo Sho 0047 Màu Đen",
       "color": "black",
       "strapType": "metallicLeather",
       "lockType": "zipper",
@@ -650,7 +650,7 @@
     {
       "id": 21,
       "categoryId": 2,
-      "name": "TÚI ĐEO CHÉO HỌA TIẾT DA RẮN METALLIC - MÀU BẠC",
+      "name": "Túi Đeo Chéo Họa Tiết Da Rắn Metallic Màu Bạc",
       "color": "white",
       "strapType": "metallicLeather",
       "lockType": "padlock",
@@ -681,7 +681,7 @@
     {
       "id": 22,
       "categoryId": 3,
-      "name": "BALO MINI PHỐI VÂN DA CÁ SẤU - BAC 0154 - MÀU HỒNG",
+      "name": "Balo Mini Phối Vân Da Cá Sấu Bac 0154 Màu Hồng",
       "color": "pink",
       "strapType": "leather",
       "lockType": "zipper",
@@ -712,7 +712,7 @@
     {
       "id": 23,
       "categoryId": 3,
-      "name": "BALO HAI NGĂN NẮP GẬP KHÓA QUICK RELEASE - BAC 0140 - MÀU XANH RÊU",
+      "name": "Balo Hai Ngăn Nắp Gập Khóa Quick Release Bac 0140 Màu Xanh Rêu",
       "color": "green",
       "strapType": "leather",
       "lockType": "padlock",
@@ -743,7 +743,7 @@
     {
       "id": 24,
       "categoryId": 3,
-      "name": "BALO DÂY RÚT - BAC 0112 - MÀU XANH DƯƠNG",
+      "name": "Balo Dây Rút Bac 0112 Màu Xanh Dương",
       "color": "blue",
       "strapType": "leather",
       "lockType": "drawstring",
@@ -774,7 +774,7 @@
     {
       "id": 25,
       "categoryId": 3,
-      "name": "BALO NẮP GẬP PHỐI MÀU VIỀN CHỈ NỔI - BAC 0151 - MÀU ĐEN",
+      "name": "Balo Nắp Gập Phối Màu Viền Chỉ Nổi Bac 0151 Màu Đen",
       "color": "black",
       "strapType": "leather",
       "lockType": "pushlock",
@@ -805,7 +805,7 @@
     {
       "id": 26,
       "categoryId": 3,
-      "name": "BALO MINI KHÓA CÀI OVAL - BAC 0156 - MÀU CAM",
+      "name": "Balo Mini Khóa Cài Oval Bac 0156 Màu Cam",
       "color": "orange",
       "strapType": "leather",
       "lockType": "padlock",
@@ -836,7 +836,7 @@
     {
       "id": 27,
       "categoryId": 3,
-      "name": "BALO ĐA NĂNG PHỐI KẺ SỌC NHIỀU MÀU - BAC 0136 - MÀU XANH NAVY",
+      "name": "Balo Đa Năng Phối Kẻ Sọc Nhiều Màu Bac 0136 Màu Xanh Navy",
       "color": "blue",
       "strapType": "leather",
       "lockType": "zipper",
@@ -868,7 +868,7 @@
     {
       "id": 28,
       "categoryId": 3,
-      "name": "BALO PHỐI ĐA NĂNG SỌC MÀU CÁ TÍNH - BAC 0127 - MÀU ĐEN",
+      "name": "Balo Phối Đa Năng Sọc Màu Cá Tính Bac 0127 Màu Đen",
       "color": "black",
       "strapType": "leather",
       "lockType": "zipper",
@@ -899,7 +899,7 @@
     {
       "id": 29,
       "categoryId": 3,
-      "name": "BALO NẮP KHÓA HỌA TIẾT CARO - BAC 0118 - MÀU ĐEN",
+      "name": "Balo Nắp Khóa Họa Tiết Caro Bac 0118 Màu Đen",
       "color": "black",
       "strapType": "leather",
       "lockType": "drawstring",
@@ -930,7 +930,7 @@
     {
       "id": 30,
       "categoryId": 5,
-      "name": "THẮT LƯNG KHÓA CÀI GOLDEN OCTAGON - WAI 0027 - MÀU TRẮNG",
+      "name": "Thắt Lưng Khóa Cài Golden Octagon Wai 0027 Màu Trắng",
       "color": "white",
       "type": "belt",
       "sizes": ["L", "M", "S"],
@@ -951,7 +951,7 @@
     {
       "id": 31,
       "categoryId": 5,
-      "name": "THẮT LƯNG DÂY MẢNH KHÓA CÀI GOLDEN OVAL - WAI 0026 - MÀU NÂU",
+      "name": "Thắt Lưng Dây Mảnh Khóa Cài Golden Oval Wai 0026 Màu Nâu",
       "color": "white",
       "type": "belt",
       "sizes": ["L", "M", "S"],
@@ -972,7 +972,7 @@
     {
       "id": 32,
       "categoryId": 5,
-      "name": "THẮT LƯNG KHÓA CÀI TẠO KIỂU DIAMOND CHARM - WAI 0025 - MÀU ĐEN",
+      "name": "Thắt Lưng Khóa Cài Tạo Kiểu Diamond Charm Wai 0025 Màu Đen",
       "color": "black",
       "type": "belt",
       "sizes": ["L", "M", "S"],
@@ -993,7 +993,7 @@
     {
       "id": 33,
       "categoryId": 5,
-      "name": "THẮT LƯNG KHÓA CÀI GOLDEN OCTAGON - WAI 0027 - MÀU ĐEN",
+      "name": "Thắt Lưng Khóa Cài Golden Octagon Wai 0027 Màu Đen",
       "color": "black",
       "type": "belt",
       "sizes": ["L", "M", "S"],
@@ -1014,7 +1014,7 @@
     {
       "id": 34,
       "categoryId": 5,
-      "name": "THẮT LƯNG KHÓA CÀI TẠO KIỂU GREEN AMBER CHARM - WAI 0025 - MÀU XANH RÊU",
+      "name": "Thắt Lưng Khóa Cài Tạo Kiểu Green Amber Charm Wai 0025 Màu Xanh Rêu",
       "color": "green",
       "type": "belt",
       "sizes": ["L", "M", "S"],
@@ -1035,7 +1035,7 @@
     {
       "id": 35,
       "categoryId": 5,
-      "name": "THẮT LƯNG DÂY MẢNH KHÓA CÀI GOLDEN OVAL - WAI 0026 - MÀU NÂU",
+      "name": "Thắt Lưng Dây Mảnh Khóa Cài Golden Oval Wai 0026 Màu Nâu",
       "color": "brown",
       "type": "belt",
       "sizes": ["L", "M", "S"],
@@ -1056,7 +1056,7 @@
     {
       "id": 36,
       "categoryId": 5,
-      "name": "KÍNH GỌNG KIM LOẠI MẮT TRÒN - ROU 0037 - MÀU ĐEN",
+      "name": "Kính Gọng Kim Loại Mắt Tròn Rou 0037 Màu Đen",
       "type": "glass",
       "price": 535000,
       "total": 10,
@@ -1080,7 +1080,7 @@
     {
       "id": 37,
       "categoryId": 5,
-      "name": "KÍNH MẮT GỌNG PHỐI HỌA TIẾT AMBER - ROU 0042 - MÀU ĐEN",
+      "name": "Kính Mắt Gọng Phối Họa Tiết Amber Rou 0042 Màu Đen",
       "type": "glass",
       "price": 535000,
       "total": 10,
@@ -1104,7 +1104,7 @@
     {
       "id": 38,
       "categoryId": 5,
-      "name": "KÍNH WAYFARER GỌNG PHỐI VIỀN KIM LOẠI - WAY 0032 - MÀU ĐEN",
+      "name": "Kính Wayfarer Gọng Phối Viền Kim Loại Way 0032 Màu Đen",
       "type": "glass",
       "price": 584000,
       "total": 10,
@@ -1128,7 +1128,7 @@
     {
       "id": 39,
       "categoryId": 5,
-      "name": "KÍNH MẮT HÌNH ĐA GIÁC GỌNG NHỎ - SPE 0008 - MÀU ĐEN",
+      "name": "Kính Mắt Hình Đa Giác Gọng Nhỏ Spe 0008 Màu Đen",
       "type": "glass",
       "price": 535000,
       "total": 10,
@@ -1152,7 +1152,7 @@
     {
       "id": 40,
       "categoryId": 5,
-      "name": "KÍNH MÁT DÁNG AVIATOR PHONG CÁCH HIỆN ĐẠI - SPE 0009 - MÀU ĐEN",
+      "name": "Kính Mát Dáng Aviator Phong Cách Hiện Đại Spe 0009 Màu Đen",
       "type": "glass",
       "price": 584000,
       "total": 10,
