@@ -1176,17 +1176,17 @@
   ],
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Alex",
       "email": "tuanhafc9@gmail.com",
       "password": "1234567",
-      "phoneNumber": "0914408932"
+      "phoneNumber": "0914408932",
     }
   ],
   "cartUsers": [
     {
-      "id": 1,
-      "cartId": 1,
+      "id": "1",
+      "categoryId": "1",
       "carts": []
     }
   ]
