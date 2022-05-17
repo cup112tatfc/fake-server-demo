@@ -1177,10 +1177,10 @@
   "users": [
     {
       "id": "1",
-      "name": "Alex",
+      "username": "Alex",
       "email": "tuanhafc9@gmail.com",
-      "password": "1234567",
       "phoneNumber": "0914408932",
+      "password": "1234567"
     }
   ],
   "cartUsers": [
