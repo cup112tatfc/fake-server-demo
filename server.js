@@ -31,7 +31,7 @@ function isRegisterAuthenticated({ email }) {
 }
 
 server.post("/api/auth/register", (req, res) => {
-  const { email, password } = req.body;
+  const { email, password,username } = req.body;
   if (isRegisterAuthenticated({ email })) {
     const status = 401;
     const message = "Email already exist";
@@ -54,6 +54,7 @@ server.post("/api/auth/register", (req, res) => {
       id: last_item_id + 1,
       email: email,
       password: password,
+      username,
       num,
     });
     let writeData = fs.writeFile(
